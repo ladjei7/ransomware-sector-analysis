@@ -1,0 +1,19 @@
+# Data files - download from Ransomwatch GitHub
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (optional - uncomment to track figures)
+# results/
